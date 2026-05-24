@@ -1,0 +1,3 @@
+[xl]
+version=XL-0.0.1-Alpha0.2.0
+url= https://xin-long66.github.io/XL/XL.dll
