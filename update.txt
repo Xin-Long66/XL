@@ -1,3 +1,4 @@
-[xl]
-version=XL-0.0.1-Alpha2.0.0
-url= https://xin-long66.github.io/XL/XL.dll
+[XtremeLogic]
+version=0.0.1
+url= https://xin-long66.github.io/XL/XtremeLogic.exe
+T=2026/6/19
